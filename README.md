@@ -2,7 +2,7 @@
 
 This project is a Linux-based solution designed to detect and monitor page fault behavior in real-time, providing insights into system memory access patterns. It simulates and mitigates minor page faults and visualizes the performance before and after optimization using graphs. Built using **C++**, **Python**, **Flask**, and **Matplotlib**, the system is ideal for performance analysis and debugging in low-level operating environments.
 ![Screenshot 2025-05-28 001428](https://github.com/user-attachments/assets/e7ab355b-e0a4-4a24-a434-5e168f2bd673)
-project-root/![WhatsApp Image 2025-05-27 at 1 41 06 AM](https://github.com/user-attachments/assets/ae35b80e-5987-46e7-8663-7fdf9afb46d3)
+![WhatsApp Image 2025-05-27 at 1 41 06 AM](https://github.com/user-attachments/assets/ae35b80e-5987-46e7-8663-7fdf9afb46d3)
 ![WhatsApp Image 2025-05-27 at 1 40 09 AM](https://github.com/user-attachments/assets/6e3218f1-f219-4618-8a59-9e53a01d9701)
 
 ## 📌 Features
